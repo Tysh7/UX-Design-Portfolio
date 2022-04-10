@@ -39,7 +39,13 @@ Figma Cover
 
 Landing page 
 
-![image](https://user-images.githubusercontent.com/72018100/162630128-3ff40e41-af2e-436c-abfa-5946ab3130b0.png)
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/72018100/162631008-f528cf28-85f7-4f04-8195-14465f00d909.png)
 
 
 
@@ -55,6 +61,7 @@ Landing page
 
 
 
+![image](https://user-images.githubusercontent.com/72018100/162631034-b4abf83a-7d37-4caf-968d-0c3d93135f2a.png)
 
 
 
@@ -62,7 +69,8 @@ Landing page
 
 
 
-![image](https://user-images.githubusercontent.com/72018100/162630145-0e2f0729-d384-41b1-947f-83f87978eba2.png)
+
+
 
 
 
