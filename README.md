@@ -4,7 +4,7 @@
 
 My Personal UX Design Portfolio 
 
-  Heres A link to the Figma Portfolio - https://www.figma.com/file/ttZmwusJn6fY9xhWdkPmJZ/UX-Design-Portfolio?node-id=4%3A62
+  Heres A link to the Figma Portfolio -https://www.figma.com/file/ttZmwusJn6fY9xhWdkPmJZ/UX-Design-Portfolio?node-id=4%3A62
 
 
 Figma Cover 
